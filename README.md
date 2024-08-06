@@ -35,7 +35,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Collinstoo/Collinstoo/output/snake.svg" alt="Snake animation" />
+<a href=#><img src="contributions.svg"></a>
 
 ###
 
